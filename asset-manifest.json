@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Voiceline1/static/css/main.0f665092.css",
+    "main.js": "/Voiceline1/static/js/main.02b06d00.js",
+    "index.html": "/Voiceline1/index.html",
+    "main.0f665092.css.map": "/Voiceline1/static/css/main.0f665092.css.map",
+    "main.02b06d00.js.map": "/Voiceline1/static/js/main.02b06d00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f665092.css",
+    "static/js/main.02b06d00.js"
+  ]
+}
